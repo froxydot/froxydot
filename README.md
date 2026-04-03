@@ -1,12 +1,16 @@
-## <div align="center">I'm froxydot <img width="20" height="21" alt="9cd95acc076e014a4e5482f556b7267b(1) 2" src="https://github.com/user-attachments/assets/f990b39f-d1c3-488c-a67d-0c87df085ae0" />
+## <div align="center">I'm froxydot <img width="20" height="21" alt="9cd95acc076e014a4e5482f556b7267b(1) 2" src="https://github.com/user-attachments/assets/a9a3601c-09be-4825-8cbe-2a58e8e33700" />
+
 
 
 
 <br>
 <div style ="display:flex;" align="center">
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e446702a-d81f-4d3d-9dd6-630bf2828097" />
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/fd3b74a0-8d01-4499-9060-410412dcda4e" />
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/179e90f0-1b08-4660-a794-da5360f022ba" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5f97d4f7-e07d-4e81-b896-f0def16dc075" />
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/bd41264c-0f1f-41d2-8888-ed4ffd444e11" />
+
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ace56b66-7830-47e5-b58b-6f930e0cc986" />
+
 
 
 
